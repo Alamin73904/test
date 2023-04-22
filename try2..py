@@ -1,13 +1,4 @@
-import os,sys,time,json,random,re,string,platform,base64,uuid 
- from bs4 import BeautifulSoup as sop 
- from bs4 import BeautifulSoup 
- import requests as ress 
- from datetime import date 
- from datetime import datetime 
- from time import sleep 
- from time import sleep as waktu 
- def o(): 
-     os.system('clear') 
+
      print(logo) 
      print(" \033[38;5;46m××××××××××××××××××××××××××××××××××××××××××××××××") 
      jalan(" \033[38;5;196m[\033[38;5;195mA\033[38;5;196m]\033[38;5;195m START RANDOM CLONING \033[1;91m[\033[1;97mWORKING\033[1;91m]") 
